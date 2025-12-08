@@ -1,0 +1,21 @@
+{
+  "name": "react-pravaha-ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "copy-build": "rm -rf ../src/main/resources/react-pravaha-ui/* && mkdir -p ../src/main/resources/react-pravaha-ui && cp -r dist/* ../src/main/resources/react-pravaha-ui/"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.2.0"
+  }
+}

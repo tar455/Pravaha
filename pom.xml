@@ -15,7 +15,6 @@
     </properties>
     <build>
         <plugins>
-
             <!-- Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -35,7 +34,7 @@
                     <archive>
                         <manifest>
                             <!-- Change to your Main class -->
-                            <mainClass>com.mybrowser.Main</mainClass>
+                            <mainClass>ai.pravaha.PravahaMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

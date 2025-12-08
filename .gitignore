@@ -3,3 +3,14 @@
 /target/*
 /out
 /target
+/backend-javaFx/node
+/backend-javaFx/react-pravaha-ui/node
+/backend-javaFx/react-pravaha-ui/node_modules
+/backend-javaFx/react-pravaha-ui/dist
+/backend-javaFx/react-pravaha-ui/package-lock.json
+/backend-javaFx/react-pravaha-ui/node_modules/*
+/backend-javaFx/react-pravaha-ui/dist/*
+/backend-javaFx/react-pravaha-ui/node/*
+/backend-javaFx/node/node_modules/npm
+/backend-javaFx/target
+/backend-javaFx/target/*
