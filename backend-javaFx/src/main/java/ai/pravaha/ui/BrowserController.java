@@ -29,7 +29,7 @@ public class BrowserController {
         });
 
         // Load React build
-        String url = getClass().getResource("/react-pravaha-ui/dist/index.html").toExternalForm();
+        String url = getClass().getResource("/react-pravaha-ui/index.html").toExternalForm();
         engine.load(url);
     }
     public BorderPane getUI() {

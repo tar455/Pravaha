@@ -41,6 +41,7 @@ const Tab = () => {
                                 <h3>{tab.title}</h3>
                                 <a href={tab.url}>{tab.url}</a>
                             </div>
+                            <a href="https://google.com" target="_blank">Google</a>
                         </div>
                     ))
                 ) : (
